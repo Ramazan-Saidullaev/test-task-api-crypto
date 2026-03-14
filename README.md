@@ -221,4 +221,4 @@ pytest
 - **Pydantic**: Валидация данных
 - **AioHTTP**: Асинхронные HTTP запросы
 - **Docker**: Контейнеризация</content>
-<parameter name="filePath">c:/Users/romas/OneDrive/Desktop/Coding/Test-tasks/test-task-api-crypto/README.md
+<parameter name="filePath">
